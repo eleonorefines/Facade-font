@@ -11,7 +11,7 @@ You can use, modify and redistribute it freely. Free Facade from her walls!
 
 *Credits :* ÉSAD Orléans, year 4, Graphic Design, 2020
 
-*Thanks :* Nicolas Girard, Loïc Le Gall and Raphaël Bastide
+*Thanks :* Nicolas Girard and Loïc Le Gall
 
 ### Français
 
@@ -22,7 +22,7 @@ Vous pouvez l’utiliser, la modifier et la redistribuer librement. Libérez Fac
 
 *Crédits :* ÉSAD Orléans, 4e année, Design Visuel Graphique, 2020
 
-*Remerciements :* Nicolas Girard, Loïc Le Gall et Raphaël Bastide
+*Remerciements :* Nicolas Girard et Loïc Le Gall
 
 ## Contact
 
