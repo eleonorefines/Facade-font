@@ -27,7 +27,10 @@ Vous pouvez l’utiliser, la modifier et la redistribuer librement. Libérez Fac
 ## Contact
 
 [Website](https://eleonorefines.fr)
+
 [Instagram](https://www.instagram.com/eleonore_fines/ "@eleonore_fines")
+
+[email] (mailto:eleonore.fines@orange.fr)
 
 ## License
 
