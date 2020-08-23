@@ -30,7 +30,7 @@ Vous pouvez l’utiliser, la modifier et la redistribuer librement. Libérez Fac
 
 [Instagram](https://www.instagram.com/eleonore_fines/ "@eleonore_fines")
 
-[email] (mailto:eleonore.fines@orange.fr)
+[email] (eleonore.fines@orange.fr)
 
 ## License
 
