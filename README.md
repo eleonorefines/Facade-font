@@ -1,6 +1,7 @@
 # Facade
 
 ![](documentation/specimen/Facade-specimen-02.png)
+![](documentation/Facade-documentation-long.png)
 
 ### English
 
