@@ -15,12 +15,12 @@ You can use, modify and redistribute it freely. Free Facade outside its walls!
 
 ### Français
 
-Facade est une typographie créée à partir de la grille architecturale de la façade de l'ÉSAD Orléans. Cette grille sert de base aux dessins des premiers croquis, puis d'esprit pour l'ensemble des caractères. La version sud est fidèle à l'architecture tandis que les autres graisses s'en émancipent.
+Facade est une typographie créée à partir de la grille architecturale de la façade de l’ÉSAD Orléans. Cette grille sert de base aux dessins des premiers croquis, puis d’esprit pour l’ensemble des caractères. La version sud est fidèle à l’architecture tandis que les autres graisses s’en émancipent.
 
-Facade est conçue par Éléonore Fines, initialement créée pour l’identité visuelle des journées portes ouvertes de l’ÉSAD Orléans 2020 d'Antoine Buon, Laëtitia Cuchet, Hugo du Roure, Éléonore Fines, Mégane Lazou et Lucie Sahuquet.
+Facade est conçue par Éléonore Fines, initialement créée pour l’identité visuelle des journées portes ouvertes de l’ÉSAD Orléans 2020 d’Antoine Buon, Laëtitia Cuchet, Hugo du Roure, Éléonore Fines, Mégane Lazou et Lucie Sahuquet.
 Vous pouvez l’utiliser, la modifier et la redistribuer librement. Libérez Facade hors de ses murs !
 
-*Remerciements :* Nicolas Girard, Loïc Le Gall, l'ÉSAD Orléans et l'équipe Velvetyne
+*Remerciements :* Nicolas Girard, Loïc Le Gall, l’ÉSAD Orléans et l’équipe Velvetyne
 
 ## Contact
 
