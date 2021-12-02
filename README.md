@@ -10,9 +10,7 @@ Facade is a typeface created from the architectural grid of the ÉSAD Orléans f
 Facade is designed by Éléonore Fines, initially created for the visual identity of the ÉSAD Orléans 2020 open days by Antoine Buon, Laëtitia Cuchet, Hugo du Roure, Éléonore Fines, Mégane Lazou and Lucie Sahuquet.
 You can use, modify and redistribute it freely. Free Facade outside its walls!
 
-*Credits (sud and sud-ouest (south and south-west) versions):* ÉSAD Orléans, 4th year, Visual Graphic Design, 2020
-
-*Thanks:* Nicolas Girard, Loïc Le Gall and the Velvetyne team
+*Thanks:* Nicolas Girard, Loïc Le Gall, the ÉSAD Orléans and the Velvetyne team
 
 
 ### Français
@@ -22,9 +20,7 @@ Facade est une typographie créée à partir de la grille architecturale de la f
 Facade est conçue par Éléonore Fines, initialement créée pour l’identité visuelle des journées portes ouvertes de l’ÉSAD Orléans 2020 d'Antoine Buon, Laëtitia Cuchet, Hugo du Roure, Éléonore Fines, Mégane Lazou et Lucie Sahuquet.
 Vous pouvez l’utiliser, la modifier et la redistribuer librement. Libérez Facade hors de ses murs !
 
-*Crédits (versions sud et sud-ouest) :* ÉSAD Orléans, 4e année, Design Visuel Graphique, 2020
-
-*Remerciements :* Nicolas Girard, Loïc Le Gall et l'équipe Velvetyne
+*Remerciements :* Nicolas Girard, Loïc Le Gall, l'ÉSAD Orléans et l'équipe Velvetyne
 
 ## Contact
 
